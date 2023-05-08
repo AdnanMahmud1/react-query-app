@@ -1,4 +1,5 @@
 import SingleItem from './SingleItem';
+
 const Items = ({ items }) => {
   return (
     <div className='items'>
