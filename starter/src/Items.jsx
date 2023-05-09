@@ -10,7 +10,7 @@ const Items = () => {
       return data;
     },
   });
-  console.log(data);
+  //console.log(data);
   if (isLoading) {
     return <p style={{ marginTop: "1rem" }}>Loading...</p>;
   }
